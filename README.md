@@ -1,7 +1,7 @@
 ## Razorpay Clone
 
-Overview of project
-<br>
+# Overview of project
+<br><b>
 ![image](https://github.com/Omkar4965/Razorpay-clone/assets/115718315/ba2499bf-c7a0-49a1-a7c6-867c351d1d2c)
 
 <br><br>
